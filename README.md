@@ -11,3 +11,7 @@ this tool to extract
 </br>
 or this
 https://github.com/pbarry/MBTiles-extractor
+
+</br>
+need to buy this map
+https://openmaptiles.com/downloads/tileset/hillshade/israel/
