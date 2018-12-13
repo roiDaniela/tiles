@@ -15,3 +15,6 @@ https://github.com/pbarry/MBTiles-extractor
 </br>
 need to buy this map
 https://openmaptiles.com/downloads/tileset/hillshade/israel/
+
+</br> 
+allow to download - http://tile.thunderforest.com/landscape/
